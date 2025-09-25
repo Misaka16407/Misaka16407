@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋你好，我是[御坂16407号]
 
-<!--
-**Misaka16407/Misaka16407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+是一只来自于[浙江]的高中生，也是一只猫娘呢，喵～
 
-Here are some ideas to get you started:
+## 🚀 关于我
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+这是一只猫娘，可以撸呢，喵～
+
+# 💻 技术栈与工具
+
+**正在使用：**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+## 📫 如何联系我
+
+-   邮箱: [wzxbeijingduck@gmail.com]
+
+⭐️ 持续贡献！
